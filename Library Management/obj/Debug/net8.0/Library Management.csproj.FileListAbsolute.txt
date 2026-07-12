@@ -1,0 +1,14 @@
+D:\My Skill\ASP.Net\Library Management\Library Management\bin\Debug\net8.0\Library Management.exe
+D:\My Skill\ASP.Net\Library Management\Library Management\bin\Debug\net8.0\Library Management.deps.json
+D:\My Skill\ASP.Net\Library Management\Library Management\bin\Debug\net8.0\Library Management.runtimeconfig.json
+D:\My Skill\ASP.Net\Library Management\Library Management\bin\Debug\net8.0\Library Management.dll
+D:\My Skill\ASP.Net\Library Management\Library Management\bin\Debug\net8.0\Library Management.pdb
+D:\My Skill\ASP.Net\Library Management\Library Management\obj\Debug\net8.0\Library Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Skill\ASP.Net\Library Management\Library Management\obj\Debug\net8.0\Library Management.AssemblyInfoInputs.cache
+D:\My Skill\ASP.Net\Library Management\Library Management\obj\Debug\net8.0\Library Management.AssemblyInfo.cs
+D:\My Skill\ASP.Net\Library Management\Library Management\obj\Debug\net8.0\Library Management.csproj.CoreCompileInputs.cache
+D:\My Skill\ASP.Net\Library Management\Library Management\obj\Debug\net8.0\Library Management.dll
+D:\My Skill\ASP.Net\Library Management\Library Management\obj\Debug\net8.0\refint\Library Management.dll
+D:\My Skill\ASP.Net\Library Management\Library Management\obj\Debug\net8.0\Library Management.pdb
+D:\My Skill\ASP.Net\Library Management\Library Management\obj\Debug\net8.0\Library Management.genruntimeconfig.cache
+D:\My Skill\ASP.Net\Library Management\Library Management\obj\Debug\net8.0\ref\Library Management.dll
